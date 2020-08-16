@@ -1,10 +1,22 @@
-## Hi there 👋
 
-- 🔭 I’m currently working on updating and migrating my projects from Gitlab to Github so that I can show off my works.
-- 🌱 I’m currently learning on my skills for SSR and Nuxtjs.
-- 👯 I’m looking to collaborate on new projects with teams
-- 🤔 I’m looking for help with front-end development
-- 💬 Ask me about ...
-- 📫 How to reach me: am.pirzadeh@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I'm a 13 y/o programmer!
+# Hello there
+> General Kenobi
+
+### My interests
+- <svg height="13px" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 261.76 226.69"><g transform="matrix(1.3333 0 0 -1.3333 -76.311 313.34)"><g transform="translate(178.06 235.01)"><path d="m0 0-22.669-39.264-22.669 39.264h-75.491l98.16-170.02 98.16 170.02z" fill="#41b883"/></g><g transform="translate(178.06 235.01)"><path d="m0 0-22.669-39.264-22.669 39.264h-36.227l58.896-102.01 58.896 102.01z" fill="#34495e"/></g></g></svg> **VueJs**
+- **React** 
+- :snake:**Python**
+- **NodeJs and Express**
+
+### Interests
+- :books: Books
+- :musical_note: Music
+- :movie_camera: Movies
+
+### Contact Me
+- :email: Email
+-- am.pirzadeh@gmail.com
+-- pirzadehamirmohammad85@gmail.com
+- :fox_face: GitLab
+- :octopus: GitHub
+⚡ Fun fact: I'm a 13 y/o programmer!
