@@ -4,7 +4,7 @@
 ### My interests
 - **VueJs**
 - **React** 
-- :snake:**Python**
+- **Python**
 - **NodeJs and Express**
 
 ### Interests
