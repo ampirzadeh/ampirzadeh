@@ -1,6 +1,5 @@
 
-# Hello there
-> General Kenobi
+# Hello there (General Kenobi)
 
 ### My interests
 - **VueJs**
